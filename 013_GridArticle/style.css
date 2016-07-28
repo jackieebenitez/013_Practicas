@@ -1,0 +1,17 @@
+.flota{
+	float:left;
+	width:70px;
+	height:70px;
+	margin:30px;
+}
+
+.icono{
+	width:70px;
+	height:70px;
+	margin:30px;
+}
+
+p{
+	text-align: justify;
+	margin:10px;
+}

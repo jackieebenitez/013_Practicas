@@ -1,0 +1,15 @@
+.imgprincipal{
+	margin-left:30%;
+	width:200px;
+	height:200px;
+}
+.alignimg{
+	margin-left:40%;
+	width: 100px;
+	height:100px;
+}
+p{
+	text-align: justify;
+	margin-top:20px;
+	margin-left:20px;
+}

@@ -1,0 +1,239 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:33
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-apple:before { content: "\f100"; }
+.flaticon-artichoke:before { content: "\f101"; }
+.flaticon-avocado:before { content: "\f102"; }
+.flaticon-bacon:before { content: "\f103"; }
+.flaticon-banana:before { content: "\f104"; }
+.flaticon-bell-pepper:before { content: "\f105"; }
+.flaticon-boiled-egg:before { content: "\f106"; }
+.flaticon-bread:before { content: "\f107"; }
+.flaticon-broccoli:before { content: "\f108"; }
+.flaticon-brochette:before { content: "\f109"; }
+.flaticon-cake:before { content: "\f10a"; }
+.flaticon-cake-1:before { content: "\f10b"; }
+.flaticon-candy:before { content: "\f10c"; }
+.flaticon-candy-cane:before { content: "\f10d"; }
+.flaticon-canned-food:before { content: "\f10e"; }
+.flaticon-canned-food-1:before { content: "\f10f"; }
+.flaticon-carrot:before { content: "\f110"; }
+.flaticon-cheese:before { content: "\f111"; }
+.flaticon-cherries:before { content: "\f112"; }
+.flaticon-chicken:before { content: "\f113"; }
+.flaticon-chicken-1:before { content: "\f114"; }
+.flaticon-chinese-food:before { content: "\f115"; }
+.flaticon-chocolate:before { content: "\f116"; }
+.flaticon-cookie:before { content: "\f117"; }
+.flaticon-corn:before { content: "\f118"; }
+.flaticon-cotton-candy:before { content: "\f119"; }
+.flaticon-crab:before { content: "\f11a"; }
+.flaticon-croissant:before { content: "\f11b"; }
+.flaticon-cupcake:before { content: "\f11c"; }
+.flaticon-doughnut:before { content: "\f11d"; }
+.flaticon-eggplant:before { content: "\f11e"; }
+.flaticon-fish:before { content: "\f11f"; }
+.flaticon-french-fries:before { content: "\f120"; }
+.flaticon-fried-egg:before { content: "\f121"; }
+.flaticon-gingerbread-man:before { content: "\f122"; }
+.flaticon-grapes:before { content: "\f123"; }
+.flaticon-grapes-1:before { content: "\f124"; }
+.flaticon-hamburger:before { content: "\f125"; }
+.flaticon-hamburger-1:before { content: "\f126"; }
+.flaticon-honey:before { content: "\f127"; }
+.flaticon-hot-dog:before { content: "\f128"; }
+.flaticon-ice-cream:before { content: "\f129"; }
+.flaticon-ice-cream-1:before { content: "\f12a"; }
+.flaticon-jelly:before { content: "\f12b"; }
+.flaticon-kebab:before { content: "\f12c"; }
+.flaticon-kebab-1:before { content: "\f12d"; }
+.flaticon-ketchup:before { content: "\f12e"; }
+.flaticon-ketchup-1:before { content: "\f12f"; }
+.flaticon-kiwi:before { content: "\f130"; }
+.flaticon-lemon:before { content: "\f131"; }
+.flaticon-lettuce:before { content: "\f132"; }
+.flaticon-lobster:before { content: "\f133"; }
+.flaticon-lollipop:before { content: "\f134"; }
+.flaticon-lollipop-1:before { content: "\f135"; }
+.flaticon-macarons:before { content: "\f136"; }
+.flaticon-marmalade:before { content: "\f137"; }
+.flaticon-meat:before { content: "\f138"; }
+.flaticon-muffin:before { content: "\f139"; }
+.flaticon-mushroom:before { content: "\f13a"; }
+.flaticon-nachos:before { content: "\f13b"; }
+.flaticon-noodles:before { content: "\f13c"; }
+.flaticon-olive-oil:before { content: "\f13d"; }
+.flaticon-olives:before { content: "\f13e"; }
+.flaticon-onion:before { content: "\f13f"; }
+.flaticon-onion-1:before { content: "\f140"; }
+.flaticon-onion-rings:before { content: "\f141"; }
+.flaticon-orange:before { content: "\f142"; }
+.flaticon-oyster:before { content: "\f143"; }
+.flaticon-pancakes:before { content: "\f144"; }
+.flaticon-peach:before { content: "\f145"; }
+.flaticon-pear:before { content: "\f146"; }
+.flaticon-peas:before { content: "\f147"; }
+.flaticon-pepper:before { content: "\f148"; }
+.flaticon-pepper-1:before { content: "\f149"; }
+.flaticon-pie:before { content: "\f14a"; }
+.flaticon-pineapple:before { content: "\f14b"; }
+.flaticon-pizza:before { content: "\f14c"; }
+.flaticon-popcorn:before { content: "\f14d"; }
+.flaticon-pumpkin:before { content: "\f14e"; }
+.flaticon-rice:before { content: "\f14f"; }
+.flaticon-salad:before { content: "\f150"; }
+.flaticon-salt:before { content: "\f151"; }
+.flaticon-sandwich:before { content: "\f152"; }
+.flaticon-sandwich-1:before { content: "\f153"; }
+.flaticon-sardines:before { content: "\f154"; }
+.flaticon-shrimp:before { content: "\f155"; }
+.flaticon-snack:before { content: "\f156"; }
+.flaticon-soup:before { content: "\f157"; }
+.flaticon-spaghetti:before { content: "\f158"; }
+.flaticon-steak:before { content: "\f159"; }
+.flaticon-strawberry:before { content: "\f15a"; }
+.flaticon-sushi:before { content: "\f15b"; }
+.flaticon-sushi-1:before { content: "\f15c"; }
+.flaticon-taco:before { content: "\f15d"; }
+.flaticon-toaster:before { content: "\f15e"; }
+.flaticon-tomato:before { content: "\f15f"; }
+.flaticon-turnip:before { content: "\f160"; }
+.flaticon-vinegar:before { content: "\f161"; }
+.flaticon-watermelon:before { content: "\f162"; }
+.flaticon-yogurt:before { content: "\f163"; }
+    
+    $font-Flaticon-apple: "\f100";
+    $font-Flaticon-artichoke: "\f101";
+    $font-Flaticon-avocado: "\f102";
+    $font-Flaticon-bacon: "\f103";
+    $font-Flaticon-banana: "\f104";
+    $font-Flaticon-bell-pepper: "\f105";
+    $font-Flaticon-boiled-egg: "\f106";
+    $font-Flaticon-bread: "\f107";
+    $font-Flaticon-broccoli: "\f108";
+    $font-Flaticon-brochette: "\f109";
+    $font-Flaticon-cake: "\f10a";
+    $font-Flaticon-cake-1: "\f10b";
+    $font-Flaticon-candy: "\f10c";
+    $font-Flaticon-candy-cane: "\f10d";
+    $font-Flaticon-canned-food: "\f10e";
+    $font-Flaticon-canned-food-1: "\f10f";
+    $font-Flaticon-carrot: "\f110";
+    $font-Flaticon-cheese: "\f111";
+    $font-Flaticon-cherries: "\f112";
+    $font-Flaticon-chicken: "\f113";
+    $font-Flaticon-chicken-1: "\f114";
+    $font-Flaticon-chinese-food: "\f115";
+    $font-Flaticon-chocolate: "\f116";
+    $font-Flaticon-cookie: "\f117";
+    $font-Flaticon-corn: "\f118";
+    $font-Flaticon-cotton-candy: "\f119";
+    $font-Flaticon-crab: "\f11a";
+    $font-Flaticon-croissant: "\f11b";
+    $font-Flaticon-cupcake: "\f11c";
+    $font-Flaticon-doughnut: "\f11d";
+    $font-Flaticon-eggplant: "\f11e";
+    $font-Flaticon-fish: "\f11f";
+    $font-Flaticon-french-fries: "\f120";
+    $font-Flaticon-fried-egg: "\f121";
+    $font-Flaticon-gingerbread-man: "\f122";
+    $font-Flaticon-grapes: "\f123";
+    $font-Flaticon-grapes-1: "\f124";
+    $font-Flaticon-hamburger: "\f125";
+    $font-Flaticon-hamburger-1: "\f126";
+    $font-Flaticon-honey: "\f127";
+    $font-Flaticon-hot-dog: "\f128";
+    $font-Flaticon-ice-cream: "\f129";
+    $font-Flaticon-ice-cream-1: "\f12a";
+    $font-Flaticon-jelly: "\f12b";
+    $font-Flaticon-kebab: "\f12c";
+    $font-Flaticon-kebab-1: "\f12d";
+    $font-Flaticon-ketchup: "\f12e";
+    $font-Flaticon-ketchup-1: "\f12f";
+    $font-Flaticon-kiwi: "\f130";
+    $font-Flaticon-lemon: "\f131";
+    $font-Flaticon-lettuce: "\f132";
+    $font-Flaticon-lobster: "\f133";
+    $font-Flaticon-lollipop: "\f134";
+    $font-Flaticon-lollipop-1: "\f135";
+    $font-Flaticon-macarons: "\f136";
+    $font-Flaticon-marmalade: "\f137";
+    $font-Flaticon-meat: "\f138";
+    $font-Flaticon-muffin: "\f139";
+    $font-Flaticon-mushroom: "\f13a";
+    $font-Flaticon-nachos: "\f13b";
+    $font-Flaticon-noodles: "\f13c";
+    $font-Flaticon-olive-oil: "\f13d";
+    $font-Flaticon-olives: "\f13e";
+    $font-Flaticon-onion: "\f13f";
+    $font-Flaticon-onion-1: "\f140";
+    $font-Flaticon-onion-rings: "\f141";
+    $font-Flaticon-orange: "\f142";
+    $font-Flaticon-oyster: "\f143";
+    $font-Flaticon-pancakes: "\f144";
+    $font-Flaticon-peach: "\f145";
+    $font-Flaticon-pear: "\f146";
+    $font-Flaticon-peas: "\f147";
+    $font-Flaticon-pepper: "\f148";
+    $font-Flaticon-pepper-1: "\f149";
+    $font-Flaticon-pie: "\f14a";
+    $font-Flaticon-pineapple: "\f14b";
+    $font-Flaticon-pizza: "\f14c";
+    $font-Flaticon-popcorn: "\f14d";
+    $font-Flaticon-pumpkin: "\f14e";
+    $font-Flaticon-rice: "\f14f";
+    $font-Flaticon-salad: "\f150";
+    $font-Flaticon-salt: "\f151";
+    $font-Flaticon-sandwich: "\f152";
+    $font-Flaticon-sandwich-1: "\f153";
+    $font-Flaticon-sardines: "\f154";
+    $font-Flaticon-shrimp: "\f155";
+    $font-Flaticon-snack: "\f156";
+    $font-Flaticon-soup: "\f157";
+    $font-Flaticon-spaghetti: "\f158";
+    $font-Flaticon-steak: "\f159";
+    $font-Flaticon-strawberry: "\f15a";
+    $font-Flaticon-sushi: "\f15b";
+    $font-Flaticon-sushi-1: "\f15c";
+    $font-Flaticon-taco: "\f15d";
+    $font-Flaticon-toaster: "\f15e";
+    $font-Flaticon-tomato: "\f15f";
+    $font-Flaticon-turnip: "\f160";
+    $font-Flaticon-vinegar: "\f161";
+    $font-Flaticon-watermelon: "\f162";
+    $font-Flaticon-yogurt: "\f163";
